@@ -9,13 +9,13 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Izzy Carpet Cleaning - Professional Carpet & Upholstery Cleaning Services',
-  description: 'Professional carpet cleaning, upholstery cleaning, and stain removal services. Get your carpets spotless with our expert cleaning team.',
-  keywords: ['carpet cleaning', 'upholstery cleaning', 'stain removal', 'professional cleaning', 'carpet care'],
-  authors: [{ name: 'Izzy Carpet Cleaning' }],
+  title: 'Alcaraz Construction - Professional Construction & Remodeling Services in San Diego',
+  description: 'Professional construction, remodeling, concrete work, drywall, electrical, plumbing, and fencing services in San Diego. Quality craftsmanship at competitive prices.',
+  keywords: ['construction', 'remodeling', 'concrete work', 'drywall', 'electrical', 'plumbing', 'fencing', 'San Diego construction', 'home improvement', 'renovation'],
+  authors: [{ name: 'Alcaraz Construction' }],
   openGraph: {
-    title: 'Izzy Carpet Cleaning - Professional Cleaning Services',
-    description: 'Professional carpet cleaning, upholstery cleaning, and stain removal services.',
+    title: 'Alcaraz Construction - Professional Construction Services in San Diego',
+    description: 'Professional construction, remodeling, and home improvement services in San Diego.',
     type: 'website',
   },
 }
